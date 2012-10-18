@@ -1,0 +1,15 @@
+{
+  "name": "stream",
+  "repo": "timoxley/stream",
+  "description": "Browser Streams à la NodeJS",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/emitter": "*",
+    "component/inherit": "*"
+  },
+  "development": {},
+  "scripts": [
+    "index.js"
+  ]
+}
